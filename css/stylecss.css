@@ -1,0 +1,80 @@
+
+header {
+    background-color: #9EC5F5;
+    color: white;
+font-family: 'Titan One', cursive !important; 
+font-weight: 400; 
+text-align: center;
+}
+h1, h2 {
+    font-family: 'Lilita One', cursive;
+    font-weight: 400;
+}
+
+body {
+
+    padding: 0px !important;
+text-align: center;
+    font-family: 'Signika', sans-serif;
+    
+
+
+}
+
+header, section {
+    padding: 5% 5% 0px 5%;
+}
+
+nav ul li {
+    display: inline-block;
+}
+#homeimg {
+height: 550px;
+width: auto;
+}
+
+nav ul li {
+    padding-top: 5px;
+
+padding-bottom: 0px;
+padding-right: 1em;
+padding-left: 1em;
+}
+
+nav ul li {
+    margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 1em;
+margin-left: 1em;
+margin: auto;
+}
+
+
+
+
+
+.whitelink {
+    color: white;
+}
+
+.active {
+    color:#9EC5F5;
+    background-color: white;
+   
+}
+
+.nounderline {
+    text-decoration: none;
+    padding: 10px 10px 0px 10px;
+
+}
+
+img {
+    opacity: 0.5;
+    transition: opacity .25s ease-in-out;
+  }
+  
+  img:hover {
+    opacity: 1.0;
+  }
+  
